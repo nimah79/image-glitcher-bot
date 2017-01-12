@@ -1,6 +1,6 @@
 # image-glitcher-bot
 Telegram @ImageGlitcherBot source code
 
-Required PHP modules:
+Required PHP version: 5.6+
 
-php5-curl
+Required PHP module: php5-curl
